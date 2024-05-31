@@ -1,0 +1,80 @@
+CPU - Central Processing Unit
+RAM - Random Access Memory
+ROM - Read-Only Memory
+GPU - Graphics Processing Unit
+HDD - Hard Disk Drive
+SSD - Solid State Drive
+LAN - Local Area Network
+WAN - Wide Area Network
+VPN - Virtual Private Network
+OS - Operating System
+API - Application Programming Interface
+SQL - Structured Query Language
+DNS - Domain Name System
+FTP - File Transfer Protocol
+HTTP - Hypertext Transfer Protocol
+HTTPS - Hypertext Transfer Protocol Secure
+IP - Internet Protocol
+DNS - Domain Name System
+USB - Universal Serial Bus
+DHCP - Dynamic Host Configuration Protocol
+AD - Active Directory
+AI - Artificial Intelligence
+AJAX - Asynchronous JavaScript and XML
+ALU - Arithmetic Logic Unit
+ARP - Address Resolution Protocol
+BGP - Border Gateway Protocol
+BIOS - Basic Input/Output System
+CDN - Content Delivery Network
+CLI - Command Line Interface
+CMS - Content Management System
+CRM - Customer Relationship Management
+CSS - Cascading Style Sheets
+DDoS - Distributed Denial of Service
+DHCP - Dynamic Host Configuration Protocol
+DNS - Domain Name System
+ECC - Error Correction Code
+EDI - Electronic Data Interchange
+EDP - Electronic Data Processing
+EDR - Endpoint Detection and Response
+EPROM - Erasable Programmable Read-Only Memory
+ERP - Enterprise Resource Planning
+ESXi - VMware ESXi
+EULA - End User License Agreement
+FIFO - First In, First Out
+firmware - software that controls the basic functions of a device
+GPT-3 - Generative Pre-trained Transformer 3
+GUI - Graphical User Interface
+HDFS - Hadoop Distributed File System
+HTML - Hypertext Markup Language
+IaaS - Infrastructure as a Service
+ICMP - Internet Control Message Protocol
+IDS - Intrusion Detection System
+IIS - Internet Information Services
+IOPS - Input/Output Operations Per Second
+IP - Internet Protocol
+IPS - Intrusion Prevention System
+ISDN - Integrated Services Digital Network
+ISP - Internet Service Provider
+IT - Information Technology
+JVM - Java Virtual Machine
+LIFO - Last In, First Out
+LMS - Learning Management System
+LOIC - Low Orbit Ion Cannon
+LUN - Logical Unit Number
+MAC - Media Access Control
+MBR - Master Boot Record
+MFA - Multi-Factor Authentication
+MIMO - Multiple Input, Multiple Output
+MITM - Man-in-the-Middle
+MPLS - Multiprotocol Label Switching
+NAT - Network Address Translation
+NFS - Network File System
+NTP - Network Time Protocol
+OAuth - Open Authorization
+OOP - Object-Oriented Programming
+OSI - Open Systems Interconnection
+PaaS - Platform as a Service
+PBX - Private Branch Exchange
+PC - Personal Computer
+PCI - Peripheral Component Interconnect
